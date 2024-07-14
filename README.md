@@ -5,7 +5,6 @@
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <little>QUSTION FROM SHIMMY</title>
     <link rel="stylesheet" href="style.css">
-    <a href="#top">https://www.shimmysquestion.com>"Visit my homepage"</a>
 
 <body>
 <div class="wrapper">
